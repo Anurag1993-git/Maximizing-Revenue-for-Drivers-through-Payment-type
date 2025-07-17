@@ -1,2 +1,6 @@
-# Maximizing-Revenue-for-Drivers-through-Payment-type
-This data analytics project explores how different payment methods (e.g., Cash, Credit Card, Digital Wallets) affect the revenue performance of taxi drivers using NYC Taxi Trip data. The goal is to uncover insights that can optimize earnings by identifying the most profitable payment behaviors.
+# Maximize-Revenue-for-Drivers-Analysis
+A statistical data analysis with hypothesis testing to understand wether payment methods impact the revenue of NYC Taxi drivers
+
+
+
+ --- [Link to the Dataset]([url](https://drive.google.com/file/d/12mIgNKzAirbSOWUBqEg3SudVUSU3twtP/view?usp=sharing))                                                       --- [Report]([url](https://drive.google.com/file/d/1glPGRJD6JpXDysSDCK8i2TglHMVG35Iw/view?usp=sharing))
